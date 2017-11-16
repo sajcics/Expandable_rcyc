@@ -12,13 +12,7 @@ import com.example.ssajcic.expandable_rcycv.R;
 
 public class ChildViewHolder extends RecyclerView.ViewHolder {
 
-    private TextView movieName;
-    private View cView;
-
     public ChildViewHolder(View itemView) {
         super(itemView);
-
-        cView = itemView;
-        movieName = itemView.findViewById(R.id.tvMovieName);
     }
 }

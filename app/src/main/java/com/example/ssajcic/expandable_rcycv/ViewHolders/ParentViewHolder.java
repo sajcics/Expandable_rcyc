@@ -14,14 +14,7 @@ import com.example.ssajcic.expandable_rcycv.R;
 
 public class ParentViewHolder extends RecyclerView.ViewHolder {
 
-    private TextView categoryMovie;
-    private ImageView expandCategory;
-    private View pView;
-
     public ParentViewHolder(View itemView) {
         super(itemView);
-        pView = itemView;
-        categoryMovie = pView.findViewById(R.id.tvMovieCategory);
-        expandCategory = pView.findViewById(R.id.ivMovieCategoryExpand);
     }
 }
