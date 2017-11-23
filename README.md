@@ -1,5 +1,3 @@
 # Expandable_rcyc
 
-The purpose of this project is for course 'Software Analysis and Design' where is needed to create recycleview that have expandable items. The recycleView shows list of movie categories and for every click on category expand list of movies and collapse if already expanded (or active on layout).
-
-For full documentation see wiki.
+The purpose of this project, which has been created for the purposes of the university course 'Software Analysis and Design', is to serve as a tutorial on how to create an recyclerView element whose items are expandable
